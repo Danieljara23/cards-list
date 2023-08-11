@@ -9,3 +9,15 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+.supermanup {
+ 
+  border-radius: 5px;
+
+
+}
+.superman {
+  margin: 200px;
+  border-radius: 5px;
+  box-shadow: 0 5px 5px 5px black;
+  text-align: center;
+}
