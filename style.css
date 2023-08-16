@@ -1,8 +1,51 @@
 * {
   margin: 0;
   padding: 0;
+  
+  text-align: center;
 }
 
+
+.supermanup {
+
+  border-radius: 5px;
+
+
+}
+.superman {
+ 
+  border-radius: 5px;
+  box-shadow: 0 5px 5px 5px black;
+  text-align: center;
+}
+.wonderwomanup { 
+  border-radius: 5px;
+}
+.wonderwoman {
+ 
+  border-radius: 5px;
+  box-shadow: 0 5px 5px 5px black;
+  text-align: center;
+}
+.batmanup{
+  border-radius: 5px;
+}
+.Batman {
+  
+  border-radius: 5px;
+  box-shadow: 0 5px 5px 5px black;
+  text-align: center;
+  
+}
+.Flashup {
+  border-radius: 5px;
+}
+.Flash {
+  border-radius: 5px;
+  box-shadow: 0 5px 5px 5px black;
+  text-align: center;
+  
+}
 .cards-container {
   display: flex;
   gap: 10px;
